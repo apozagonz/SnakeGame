@@ -166,6 +166,7 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
         comida.y = random.nextInt(tableroLargo / baldosaTamaño);
     }
 
+
     public void actualizarNivel() {
         if (puntuacion >= nivel * 10) {
             nivel++;

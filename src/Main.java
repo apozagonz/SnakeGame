@@ -20,7 +20,7 @@ public class Main {
         //frame.setVisible(true); // La ventana es visible
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Cierra el programa al cerrar la ventana
         frame.setResizable(false); // Evita que la ventana se pueda cambiar de tamaño
-        //frame.setSize(tableroAncho, tableroLargo + 50); // Establece tamaño de la ventana
+
 
 
         // Panel del juego
